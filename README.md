@@ -1,5 +1,5 @@
 # chillput()
-small python3 script. chillput() is a function to prompt for inputs and chill, it checks if user inputs are floatable, floats, integers, contain floatable words, Yes/No etc.
+small python3 learning script. chillput() is a function to prompt for inputs and chill, it checks if user inputs are floatable, floats, integers, contain floatable words, Yes/No etc.
 gives back a bunch of True / False values.
 stores the valid answers in a list called 'lanswe'. 'dinpok' dict stores the T/F values of the function checks when the function is called.
 input() only accepts certain conditions which can be set in the while loop after the function.
